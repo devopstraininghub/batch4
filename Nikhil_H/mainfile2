@@ -1,1 +1,8 @@
 This is my mainfile 2. /n
+I am editing this file also using vim editor.
+procedure for this is:
+vim <file name>
+esc I
+esc :w
+esc :q
+or esc:wq
