@@ -1,2 +1,0 @@
-Hi 
-This is git branch/merge test -- Rakesh
