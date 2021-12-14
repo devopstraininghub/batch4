@@ -1,0 +1,10 @@
+git stash
+git stash save "label"
+git stash show 
+git stash pop
+git stash apply
+git stash drop
+=================================
+git config --global alias.s "commandname"
+=========================================
+
