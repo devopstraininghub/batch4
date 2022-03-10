@@ -4,4 +4,3 @@
   tasks:
   - name: Installing Git Package
     yum: name=git state=present
-	
